@@ -92,7 +92,7 @@ class PostController extends Controller
     {
         //validate form
         $this->validate($request, [
-           'kode_barang'     => 'required|unique:kode_barang|min:1',
+           'kode_barang'     => 'required|min:1',
             'nama_barang'     => 'required|min:1',
             'satuan'     => 'required|min:1',
             'jumlah'     => 'required|min:1',
