@@ -13,6 +13,8 @@
         <div class="row">
             <div class="col-md-12">
                 <div>
+                    <h3 class="text-center my-4">SISTEM MANAJEMEN</h3>
+                    <br>
                     <h3 class="text-center my-4">INVENTORY BARANG</h3>
                     <hr>
                 </div>
